@@ -1,6 +1,6 @@
 # Dataset Repository
 
-This repository serves as a centralized collection of dataset links for various projects and research purposes. We encourage contributors to add their own dataset links to expand this valuable resource.
+This repository serves as a centralized collection of dataset links for magic-block. We encourage contributors to add their own dataset links to expand this valuable resource.
 
 ## How to Contribute
 
